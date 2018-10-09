@@ -1,2 +1,0 @@
-# AppliedDataScienceCapstone
-test something
